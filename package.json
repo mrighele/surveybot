@@ -1,0 +1,35 @@
+{
+  "name": "surveybot",
+  "version": "0.0.1",
+  "description": "A survey bot for Slack with a sprinkle of NLP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrighele/surveybot.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "botkit",
+    "nlp",
+    "ai",
+    "natural",
+    "language",
+    "righele"
+  ],
+  "author": "Marco Righele",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrighele/surveybot/issues"
+  },
+  "homepage": "https://github.com/mrighele/surveybot/#readme",
+  "dependencies": {
+    "botkit": "0.0.5",
+    "lokijs": "^1.4.1",
+    "moment": "^2.14.1",
+    "natural": "^0.2.1"
+  }
+}
